@@ -260,8 +260,8 @@ HA EKS cluster with kube-prometheus-stack and custom dashboards.
 - **Platform**: [Skillzmist.com](https://www.skillzmist.com) - 48+ DevOps Tutorials
 - **Projects**: [skillzmist.com/projects](https://www.skillzmist.com/projects)
 - **Email**: skillzmist@gmail.com
-- **LinkedIn**: [linkedin.com/in/farmanali](https://linkedin.com/in/farmanali)
-- **Website**: [devhub.fit](https://skillzmist.com)
+- **LinkedIn**: [linkedin.com/in/farmanali](https://linkedin.com/in/farmanali-dev)
+- **Website**: [skillzmist.com](https://skillzmist.com)
 
 ---
 
@@ -278,15 +278,7 @@ I offer consulting and development services:
 - **24/7 Support**: Maintenance and monitoring
 
 
----
 
-## 📊 GitHub Statistics
-
-![Farman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
-
----
 
 ## 🎓 Education
 
@@ -317,15 +309,7 @@ Visit [skillzmist.com/blog](https://www.skillzmist.com/blog) for:
 ✅ **Zero-Downtime Deployments** implemented for clients  
 ✅ **Cost Savings** of $500K+ through optimization  
 
----
 
-## 💬 What People Say
-
-*"The Skillzmist tutorials are incredibly detailed and practical. Helped us migrate our entire infrastructure to Kubernetes in 3 months."* - Tech Lead, Fortune 500 Company
-
-*"Farman's approach to DevOps is systematic and thorough. Worth every penny for consulting."* - Startup CTO
-
----
 
 ## 🚀 Open to Collaboration
 
@@ -338,7 +322,7 @@ I'm actively taking on:
 
 ---
 
-*Last updated: January 2025*
+*Last updated: May 2026*
 
 **Made with ❤️ by Farman Ali | Powered by AWS | Teaching 50K+ engineers**
 
