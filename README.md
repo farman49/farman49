@@ -2,7 +2,7 @@
 
 **DevOps Specialist | AWS Expert | Full-Stack Developer | 5+ Years Experience**
 
-I build production-grade cloud infrastructure, automate deployment pipelines, and architect scalable systems. Creator of **Skillzmist** - a platform with 48+ DevOps tutorials and 50K+ active learners.
+I build production-grade cloud infrastructure, automate deployment pipelines, and architect scalable systems. Creator of **Skillzmist** - a platform with 48+ DevOps tutorials.
 
 ---
 
@@ -64,7 +64,7 @@ I build production-grade cloud infrastructure, automate deployment pipelines, an
 ## 📚 Featured Projects & Expertise
 
 ### 🎓 Skillzmist - Educational Platform
-**48+ Production DevOps Tutorials | 50K+ Active Learners | 4.9/5 Rating**
+**48+ Production DevOps Tutorials | 4.9/5 Rating**
 
 A comprehensive learning platform featuring production-grade DevOps tutorials:
 
@@ -102,7 +102,6 @@ A comprehensive learning platform featuring production-grade DevOps tutorials:
 #### 1. **Complete AWS EKS Cluster Setup with Terraform**
 Production-ready Kubernetes clusters on AWS with auto-scaling, security groups, and RBAC.
 - **Tech**: Terraform, Kubernetes, AWS EKS
-- **Impact**: Used by 5K+ engineers globally
 - **Complexity**: Advanced (95% rating)
 
 #### 2. **Jenkins Agents on EKS (Ephemeral Pods)**
@@ -136,7 +135,6 @@ HA EKS cluster with kube-prometheus-stack and custom dashboards.
 | Metric | Value |
 |--------|-------|
 | **Total Projects** | 48+ |
-| **Active Learners** | 50K+ |
 | **Average Rating** | 4.9/5 ⭐ |
 | **Update Frequency** | Weekly |
 | **Categories** | Kubernetes, CI/CD, AWS, IaC, Automation |
@@ -241,7 +239,6 @@ HA EKS cluster with kube-prometheus-stack and custom dashboards.
 
 ### **Teaching & Content Creation**
 - 48+ published DevOps tutorials
-- 50K+ active learners on Skillzmist
 - 4.9/5 average rating
 - Weekly content updates
 - Comprehensive documentation
@@ -301,7 +298,6 @@ Visit [skillzmist.com/blog](https://www.skillzmist.com/blog) for:
 ## 🌟 Highlights & Achievements
 
 ✅ **48+ Professional Tutorials** created and published  
-✅ **50K+ Learners** actively using Skillzmist  
 ✅ **4.9/5 Rating** across all projects  
 ✅ **Weekly Updates** with latest DevOps practices  
 ✅ **Production-Ready** code and configurations  
@@ -324,6 +320,6 @@ I'm actively taking on:
 
 *Last updated: May 2026*
 
-**Made with ❤️ by Farman Ali | Powered by AWS | Teaching 50K+ engineers**
+**Made with ❤️ by Farman Ali | Powered by AWS**
 
 [Visit Skillzmist →](https://www.skillzmist.com) | [View All Projects →](https://www.skillzmist.com/projects)
